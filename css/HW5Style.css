@@ -33,7 +33,7 @@ body {
 }
 
 #tileRack {
-    background-image: url("tilerack.png");
+    background-image: url("tilerack.PNG");
     width: 525px;
     background-color: #c99054;
     margin-left: 45px;
